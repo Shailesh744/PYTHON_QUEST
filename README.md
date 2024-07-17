@@ -1,4 +1,4 @@
-# Python Practice Sets.
+# Python Practice Sets
 
 This repository contains various practice sets to help you learn and master Python programming. Each practice set is designed to reinforce key concepts and skills.
 
