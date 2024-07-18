@@ -36,7 +36,7 @@ This repository contains various practice sets to help you learn and master Pyth
 
 ## Chapter 4 – Practice Set
 1. Write a program to store seven fruits in a list entered by the user.
-2. Write a program to accept marks of 6 students and display them in a sorted manner.
+2. Write a program to accept marks of 6 students and display them in a sorted manner..
 3. Check that a tuple cannot be changed in Python.
 4. Write a program to sum a list with 4 numbers.
 5. Write a program to count the number of zeros in the following tuple:
