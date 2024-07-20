@@ -1,6 +1,6 @@
 # Python Practice Sets
 
-This repository contains various practice sets to help you learn and master Python programming. Each practice set is designed to reinforce key concepts and skills.
+This repository contains various practice sets to help you learn and master Python programming. Each practice set is designed to reinforce key concepts and skills..
 
 ## Chapter 1 – Practice Set
 1. Write a program to print the "Twinkle Twinkle Little Star" poem in Python.
