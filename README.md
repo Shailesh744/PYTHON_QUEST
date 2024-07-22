@@ -125,7 +125,7 @@ This repository contains various practice sets to help you learn and master Pyth
 2. Write a Python program to demonstrate the use of `pip freeze` command.
 3. Write a Python program to demonstrate the use of `lambda functions`.
 4. Write a Python program to demonstrate the use of `join` method for strings.
-5. Write a Python program to demonstrate the use of `format` method for strings.
+5. Write a Python program to demonstrate the use of `format` method for strings..
 6. Write a Python program to demonstrate the use of `map`, `filter` and `reduce` functions..
 
 ## Mega Project 1: Jarvis
