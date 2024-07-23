@@ -1,6 +1,20 @@
 # Python Practice Sets
 
-This repository contains various practice sets to help you learn and master Python programming. Each practice set is designed to reinforce key concepts and skills..
+This repository contains practice questions for each chapter of "The Ultimate Python Handbook." These practice sets are designed to help you solidify your understanding of Python programming concepts.
+
+## Table of Contents
+
+- [Chapter 3: Practice Set](#chapter-3-practice-set)
+- [Chapter 4: Practice Set](#chapter-4-practice-set)
+- [Chapter 5: Practice Set](#chapter-5-practice-set)
+- [Chapter 6: Practice Set](#chapter-6-practice-set)
+- [Chapter 7: Practice Set](#chapter-7-practice-set)
+- [Chapter 8: Practice Set](#chapter-8-practice-set)
+- [Chapter 9: Practice Set](#chapter-9-practice-set)
+- [Chapter 10: Practice Set](#chapter-10-practice-set)
+- [Chapter 11: Practice Set](#chapter-11-practice-set)
+- [Chapter 12: Practice Set](#chapter-12-practice-set)
+- [Chapter 13: Practice Set](#chapter-13-practice-set)
 
 ## Chapter 1 – Practice Set
 1. Write a program to print the "Twinkle Twinkle Little Star" poem in Python.
