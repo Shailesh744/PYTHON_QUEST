@@ -1,4 +1,4 @@
-# Python Practice Sets
+# Python Practice Sets.
 
 This repository contains practice questions for each chapter of "The Ultimate Python Handbook." These practice sets are designed to help you solidify your understanding of Python programming concepts.
 
